@@ -9,18 +9,9 @@
 
   Run `npm run dev` to start the development server.
 
+---
 
-  Skill Passport — Frontend
-
-Frontend de Skill Passport, una plataforma que invierte la dinámica tradicional de búsqueda laboral: hace visibles las habilidades reales de los candidatos y les da poder de negociación frente a las empresas mediante matching transparente, validación de habilidades entre pares y postulación anónima (Reverse Pitch).
-
-
-🔗 Backend del proyecto: skill-passport-backend
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-# Skill Passport — Frontend
+ # Skill Passport — Frontend
 
 Frontend de **Skill Passport**, una plataforma que invierte la dinámica tradicional de búsqueda laboral: hace visibles las habilidades reales de los candidatos y les da poder de negociación frente a las empresas mediante matching transparente, validación de habilidades entre pares y postulación anónima (Reverse Pitch).
 
@@ -205,4 +196,4 @@ La interfaz aplica una clase de tema distinta según el tipo de usuario (`theme-
 | Matías Posse Presa | Infraestructura y Seguridad |
 | Sebastián Martínez Banega | Project Manager |
 
-Proyecto desarrollado en el marco de **Seminario de Integración Profesional** — UADE, bajo la guía de los profesores Agustín Grangetto y Sebastián Jorge Viñuela.
+Proyecto desarrollado en el marco de **Seminario de Integración Profesional** — 
